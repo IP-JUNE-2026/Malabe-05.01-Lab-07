@@ -36,6 +36,7 @@ public class IT26101232Lab7Q3{
 	   }else{
 		   
 		   System.out.println("Payment Mode is Not Valid");
+		   continue;
 		   
 	   }
 	   System.out.println();
